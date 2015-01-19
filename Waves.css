@@ -7,3 +7,11 @@ img {
     height: 200px;
 	width: 300px;
 }
+
+/*use em instead of px: one em is equal to the default font size on whatever screen the user is using*/
+/*CSS has some built-in defaults for fonts: serif;sans-serif and cursive*/
+/*font-family: Times, serif;*/
+/*h3 { color: #e6d1bb; font-size: 50em;*/
+
+/*three properties to set values for: background-color, height, width in pixels*/
+/*border*/
