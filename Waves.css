@@ -3,10 +3,20 @@ h1 {
 	font-size: 25px;
 	font-family: Verdana;
 }
+
 img {
     height: 200px;
 	width: 300px;
 }
+
+p {
+   font:family: Courier;
+   font-size: 15em; /*better to use 'em' or 'px'?*/
+   color: #A38A98;
+ }
+ 
+div {
+
 
 /*use em instead of px: one em is equal to the default font size on whatever screen the user is using*/
 /*CSS has some built-in defaults for fonts: serif;sans-serif and cursive*/
@@ -15,3 +25,4 @@ img {
 
 /*three properties to set values for: background-color, height, width in pixels*/
 /*border*/
+/*text-decoration:none for links*/
