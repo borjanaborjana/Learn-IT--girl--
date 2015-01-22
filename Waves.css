@@ -10,13 +10,36 @@ img {
 }
 
 p {
-   font:family: Courier;
+   font:family: Courier, sans-serif;
    font-size: 15em; /*better to use 'em' or 'px'?*/
    color: #A38A98;
  }
  
 div {
+   height: 50px;
+   width: 120px;
+   border-color: purple;
+   background-color: white;
+   border-style: solid;
+   border-width: 2px;
+   font-family: Courier, sans-serif;
+   border-radius: 5px;
+   margin: auto;
+   text-align: center;
+}
 
+div {
+   height: 50px;
+   width: 120px;
+   border-color: purple;
+   background-color: white;
+   border-style: solid;
+   border-width: 2px;
+   font-family: Courier, sans-serif;
+   border-radius: 5px;
+   margin: auto;
+   text-align: center;
+ }
 
 /*use em instead of px: one em is equal to the default font size on whatever screen the user is using*/
 /*CSS has some built-in defaults for fonts: serif;sans-serif and cursive*/
