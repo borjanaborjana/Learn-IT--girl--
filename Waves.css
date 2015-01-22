@@ -9,6 +9,10 @@ img {
 	width: 300px;
 }
 
+body {
+    background-color: #fd8ddc;
+}
+
 p {
    font:family: Courier, sans-serif;
    font-size: 15em; /*better to use 'em' or 'px'?*/
