@@ -1,3 +1,8 @@
+
+body {
+    background-color: #fd8ddc;
+}
+
 h1 {
 	color: purple;
 	font-size: 25px;
@@ -9,9 +14,7 @@ img {
 	width: 300px;
 }
 
-body {
-    background-color: #fd8ddc;
-}
+
 
 p {
    font:family: Courier, sans-serif;
