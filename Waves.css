@@ -2,20 +2,20 @@
 
 h1 {
 	color: purple;
-	font-size: 10px;
+	font-size: 30px;
 	font-family: Verdana;
 }
 
 img {
-    height: 200px;
-	width: 300px;
+    height: 1000px;
+	width: 2000px;
 }
 
 
 
 p {
    font:family: Courier, sans-serif;
-   font-size: 15em; /*better to use 'em' or 'px'?*/
+   font-size: 15px; /*better to use 'em' or 'px'?*/
    color: #A38A98;
  }
  
