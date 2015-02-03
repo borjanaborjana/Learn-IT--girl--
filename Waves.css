@@ -26,7 +26,6 @@ div {
    height: 50px;
    width: 120px;
    border-color: purple;
-   background-color: #FFCCFF;
    border-style: solid;
    border-width: 2px;
    font-family: Courier, sans-serif;
@@ -39,7 +38,6 @@ div {
    height: 50px;
    width: 120px;
    border-color: purple;
-   background-color: white;
    border-style: solid;
    border-width: 2px;
    font-family: Courier, sans-serif;
